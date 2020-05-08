@@ -1,0 +1,29 @@
+.cont7{
+   
+    
+   font-size: 140px;
+ height: auto;
+       background-color: rgb(255, 255, 255);
+    margin-top: 50px;
+}
+.content{
+   text-align: justify;
+   text-justify: inter-word;
+      color: rgb(41, 36, 36);
+      font-style: italic;
+   
+}
+.set1{
+   font-size: 150%;
+}
+.set2{
+   font-size: 100%;
+}
+
+@media(min-width: 992px){
+.cont7{
+   height: auto;
+   margin-right: 300px;
+  margin-left: 300px;
+}
+}

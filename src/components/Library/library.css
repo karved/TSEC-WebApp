@@ -1,0 +1,47 @@
+.rounded {
+  text-align: center;
+  border-radius: 10px;
+  flex: auto;
+  border: 0px solid grey;
+  padding: 0%;
+  width: 200px;
+  background-color: #f0f0f0;
+  font-weight: lighter;
+}
+
+.color {
+  background-color: #14183d;
+}
+.detail {
+  border: 1px;
+  border-radius: 25px;
+}
+@media only screen and (min-device-width: 768px) {
+  div.class div {
+    height: auto;
+    margin-left: 10%;
+    margin-right: 5%;
+  }
+}
+
+@media (max-width: 400px) {
+  .rounded {
+    height: auto;
+    width: 45%;
+    font-weight: lighter;
+  }
+  div.class div {
+    height: auto;
+  }
+}
+
+@media only screen and (max-width: 500px) and (min-width: 400px) {
+  .rounded {
+    height: 200;
+    width: 150px;
+    font-weight: lighter;
+  }
+  div.class div {
+    height: auto;
+  }
+}

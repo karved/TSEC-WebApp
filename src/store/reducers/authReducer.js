@@ -1,0 +1,46 @@
+import M from "materialize-css";
+
+const initState = {
+    authError: null,
+    resetError: null
+  };
+  
+  const authReducer = (state = initState, action) => {
+    switch (action.type) {
+      case "LOGIN_SUCCESS":
+        //console.log('login success')
+        return {
+          ...state,
+          authError: null
+        };
+  
+      case "LOGIN_ERROR":
+        //console.log('login failed')
+        return {
+          ...state,
+          authError: "login failed"
+        };
+  
+      case "LOGOUT_SUCCESS":
+        // console.log('logout success')
+        return state;
+  
+      case "RESET_SUCCESS":
+        // console.log('logout success')
+        return {
+          ...state,
+          resetError: "reset success"
+        };
+      case "RESET_ERROR":
+        M.toast({ html: "USER NOT REGISTERED " })
+        return {
+          ...state
+        };
+  
+      default:
+        return state;
+    }
+  };
+  
+  export default authReducer;
+  

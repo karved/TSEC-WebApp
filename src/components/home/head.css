@@ -1,0 +1,11 @@
+@media(max-width: 450px) {
+    .colls{
+        margin-left: 40%;
+    }
+}
+
+@media(max-width: 400px) {
+    .colls{
+        margin-left: auto;
+    }
+}

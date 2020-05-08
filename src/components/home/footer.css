@@ -1,0 +1,25 @@
+@media (max-width: 400px) {
+  .address {
+    text-align: center !important;
+  }
+  .contact {
+    text-align: center !important;
+  }
+  .links {
+    text-align: center !important;
+  }
+}
+@media (min-width: 992px) {
+  .address {
+    margin-left: 10%;
+  }
+  .contact {
+    margin-left: 10%;
+    margin-top: 10px;
+  }
+
+  .links {
+    margin-top: 10px;
+    margin-right: 150px;
+  }
+}

@@ -1,0 +1,19 @@
+/* .container {
+  max-height: 100px;
+  overflow-y: scroll;
+} */
+.header{  
+  flex-direction: column;
+  flex: auto;
+}
+.mess{
+  width: auto;  
+  word-break: break-word;
+  text-align: justify;
+}
+
+.header2
+{
+  width: 100%;
+}
+

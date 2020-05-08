@@ -1,0 +1,25 @@
+
+.pr{
+    margin-left: auto !important;
+}
+.tr{
+    margin-left: auto !important;
+}
+
+@media only screen and (min-width:679px) and (max-width:1000px){
+.pr{
+    margin-left: -10px !important;
+}
+.tr{
+    margin-left: 10px !important;
+}
+}
+@media  (min-width:1185px){
+    .pr{
+        margin-left: -10px !important;
+    }
+    .tr{
+        margin-left: 10px !important;
+    }
+    }
+
