@@ -1,4 +1,5 @@
 # TSEC-WebApp
+![alt text](https://github.com/karved/TSEC-WebApp/blob/master/pics/tsec_logo_light.png)  
 A Web-app made for Thadomal Shahani Engineering College by Mobile App Developers Club TSEC.  
 Contributed as an integral member of the Web team towards building this project. 
 
@@ -33,7 +34,7 @@ Password:       123456
 ---
 |||
 |---|----|
-|![alt text](https://github.com/karved/TSEC-WebApp/blob/master/pics/1.png) |![alt text](https://github.com/karved/TSEC-WebApp/blob/master/pics/2.png) |
+|![alt text](https://github.com/karved/TSEC-WebApp/blob/master/pics/12.png) |![alt text](https://github.com/karved/TSEC-WebApp/blob/master/pics/2.png) |
 |![alt text](https://github.com/karved/TSEC-WebApp/blob/master/pics/3.png) |![alt text](https://github.com/karved/TSEC-WebApp/blob/master/pics/4.png) |
 |![alt text](https://github.com/karved/TSEC-WebApp/blob/master/pics/5.png) |![alt text](https://github.com/karved/TSEC-WebApp/blob/master/pics/6.png) |
 |![alt text](https://github.com/karved/TSEC-WebApp/blob/master/pics/7.png) |![alt text](https://github.com/karved/TSEC-WebApp/blob/master/pics/8.png) |
